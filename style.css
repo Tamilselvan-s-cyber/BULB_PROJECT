@@ -1,0 +1,24 @@
+body{
+    text-align: center;
+    background-color: black;
+}
+h1{
+    color: blue;
+}
+
+#bulb{
+    width: 500px;
+    height: 500px;
+}
+
+button{
+    height: 40px;
+    width: 120px;
+    background-color: pink;
+    color: black;
+}
+button:hover{
+    cursor: pointer;
+    background-color: red;
+    color: black;
+}
